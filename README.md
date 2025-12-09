@@ -18,3 +18,15 @@ This project demonstrates how to build an efficient movie recommendation system 
 6.Interactive search using Jupyter Widgets
 
 7.Evaluation metrics for recommendation quality
+
+🗂 Tech Stack
+
+1.Python
+
+2.Pandas, NumPy
+
+3.Scikit-Learn
+
+4.Jupyter Notebook
+
+5.ipywidgets (for interactive search)
